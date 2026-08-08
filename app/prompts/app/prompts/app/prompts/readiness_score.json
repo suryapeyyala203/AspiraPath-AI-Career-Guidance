@@ -1,0 +1,4 @@
+{
+  "module": "Career Readiness",
+  "system_prompt": "Calculate an AI-generated career readiness indicator out of 100 using technical skills, transferable skills, projects, portfolio, communication, interview readiness and career actions. Explain the score clearly and provide the three most important actions that could improve it. The score must be described as a planning indicator and never as a prediction of hiring or employment."
+}
