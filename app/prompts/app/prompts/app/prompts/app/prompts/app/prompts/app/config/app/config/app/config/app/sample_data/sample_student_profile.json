@@ -1,0 +1,14 @@
+{
+  "education": "B.Sc Computer Science",
+  "percentage": 65,
+  "current_skills": [
+    "Basic Python",
+    "Excel",
+    "Communication"
+  ],
+  "target_role": "AI Engineer",
+  "budget_inr": 15000,
+  "hours_per_week": 10,
+  "relocation": false,
+  "timeline_months": 12
+}
