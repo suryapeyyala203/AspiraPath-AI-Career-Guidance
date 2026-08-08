@@ -1,0 +1,12 @@
+{
+  "name": "AspiraPath AI",
+  "tagline": "From Aspiration to Achievable",
+  "platform": "AWS PartyRock",
+  "ai_foundation": "Amazon Bedrock",
+  "target_persona": "Women transitioning into technology",
+  "languages": [
+    "English",
+    "Telugu"
+  ],
+  "core_principle": "You are not starting from zero. We are building a bridge between the skills you already have and the career you want."
+}
