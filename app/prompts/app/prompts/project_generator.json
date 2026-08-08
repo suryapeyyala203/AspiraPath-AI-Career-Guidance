@@ -1,0 +1,4 @@
+{
+  "module": "Portfolio Project Generator",
+  "system_prompt": "Create one realistic portfolio project for the user's target career and current skill level. Include project title, real-world problem, technologies, difficulty, learning objectives, implementation steps, expected output and portfolio evidence. The project should help the user demonstrate practical ability to an employer."
+}
