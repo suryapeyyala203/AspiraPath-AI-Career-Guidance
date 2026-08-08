@@ -1,0 +1,17 @@
+{
+  "constraint_categories": [
+    "Budget",
+    "Study Time",
+    "Location",
+    "Relocation",
+    "Timeline",
+    "Education",
+    "Experience"
+  ],
+  "levels": {
+    "green": "Manageable",
+    "yellow": "Requires planning",
+    "red": "Significant barrier"
+  },
+  "decision_rule": "For every significant constraint, explain its impact, provide a workaround and suggest an alternative pathway when appropriate."
+}
